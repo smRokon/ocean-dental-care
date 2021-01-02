@@ -1,0 +1,7 @@
+.mainmenu{margin:0;padding:0;list-style:none;}
+
+.mainmenu li{float:left;border-right:1px solid #ddd;}
+
+.mainmenu li a{dispaly:block;padding:10px;background:#EDEDED;color:#000;text-decoration:none;}
+
+.mainmenu li a:hover{background:#fff;}

@@ -1,0 +1,31 @@
+div ul li{
+	display:inline;
+	color:red;
+	padding:10px;
+	margin-top:5px;
+	font-size:30pt;
+	clear:right;
+
+}
+.first{
+	background-color:black;
+	padding-bottom:10px;
+	clear:left;
+	
+	vertical-align:middle;
+}
+.image{
+	padding:-10px 20px 20px 5px;
+		
+}
+.marq{
+	padding-top:10px;
+	padding-bottom:2px;
+	color:#7A10D3;
+	font-size:30pt;
+	margin-left:50px;
+	margin-right:50px;
+	
+}
+
+	
